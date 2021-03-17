@@ -98,7 +98,7 @@ OpenShift will automatically guess the Git server type and the programming langu
 image::nationalparks-import-from-git-url-builder.png[Import from Git]
 
 
-Scroll down to the *General* section. Select:
+Scroll down to the *General* section. Click "Create Application" from the dropdown. Then select:
 
 * *Application Name* : workshop
 * *Name* : nationalparks
