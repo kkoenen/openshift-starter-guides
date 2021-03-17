@@ -123,7 +123,7 @@ directories:
 Open up a terminal window and change to the directory where you downloaded the
 file.  Once you are in the directory, enter in the following command:
 
-CAUTION: The name of the oc packaged archive may vary. Adjust accordingly.
+CAUTION: The name of the oc packaged archive may vary. Adjust accordingly. For instance, if the file is not a zipped format (check using the 'file' command), you' ll want to omit the z-switch on the tar command.
 
 [.console-input]
 [source,bash,subs="+attributes,macros+"]
